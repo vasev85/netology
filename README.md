@@ -1,4 +1,5 @@
 # netology
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
 Домашнее задание к занятию "8.3. Gitlab"
 Домашнее задание выполните в Google Docs и отправьте в личном кабинете на проверку ссылку на ваш документ.
 
