@@ -1,13 +1,16 @@
 stages:
   - test
+  
   - build
 
 test:
   stage: test
   image: golang:1.17
   script: 
-   - go mod init
-   go test .
+   - go test .
+
+
+
 
 build:
   stage: build
