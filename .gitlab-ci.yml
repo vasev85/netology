@@ -6,7 +6,8 @@ test:
   stage: test
   image: golang:1.17
   script: 
-   - go test .
+   - go mod init
+   go test .
 
 build:
   stage: build
