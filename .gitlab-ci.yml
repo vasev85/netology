@@ -10,7 +10,7 @@ test:
   rules:
     - changes:
       
-      - ".go"
+      - "*.go"
       when: always
     - when: never  
       
